@@ -1,0 +1,13 @@
+streamlit
+google.generativeai
+python-dotenv
+langchain==0.2.6
+faiss-cpu
+langchain-google-genai
+langchain_community
+crawl4ai
+langchain_ollama
+sentence-transformers
+langchain-huggingface
+psutil
+GPUtil
